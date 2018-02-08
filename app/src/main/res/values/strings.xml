@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Basic Kotlin</string>
+    <string name="listview_activity">LISTVIEW ACTIVITY</string>
+    <string name="recyclerview_activity">RECYCLERVIEW ACTIVITY</string>
+</resources>
